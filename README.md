@@ -1,5 +1,5 @@
 ﻿# Behavioural Anomaly Detection System
-FYP — University of Lahore | Team: Umar Farooq, Muhammad Zain, Zarnab Waheed
+FYP — University of Lahore | Zarnab Waheed
 
 ## Quick Start
 
